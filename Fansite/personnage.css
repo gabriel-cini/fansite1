@@ -1,0 +1,32 @@
+
+header {
+    display: flex;
+    height: 50%;
+    background-color: black;
+    justify-content: center;
+        
+}
+
+ header a {
+    color: orange;
+    font-size: x-large;
+    text-decoration: none;
+    text-align: right;
+ }    
+ 
+img{
+    width: 400px;
+}
+
+body{
+    background-image: url("https://mobimg.b-cdn.net/v3/fetch/6f/6feb85f23b24f2e9ed6e75069f065fdb.jpeg")
+}
+
+.lien-perso{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 50%;
+    margin-right: 40%;
+    
+}
